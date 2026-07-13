@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_age_under18_filter",
+  "source_file": "NAKSHATRA MEENA EI01910 PROJECT-1.sas",
+  "source_blob_sha": "4d024891e10eec697285610fd348e788e1572c51",
+  "source_commit": "9aaff9f6791293950b4e4249f7e55871d8c9d822",
+  "notes": "Project-1 Q1: PROC SQL WHERE age<18 filter on the credit-banking customer table (cb). A sample of the repo's own acquisition data is loaded inline in script.sas so this bundle also runs standalone via /v1/quick."
+}

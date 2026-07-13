@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:29:50.860007+00:00",
+  "_captured_run_id": "r_1870b740d2fe4f4eb105307615e5441d",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote spend (27 rows, 2 columns).",
+    "NOTE: PROC SQL statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

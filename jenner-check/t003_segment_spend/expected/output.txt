@@ -1,0 +1,7 @@
+      Segment      spending_money
+-------------  ------------------
+Self_Employed      1873903.161569
+ Salaried_MNC  1689224.2932000004
+Normal_Salary        1137315.9708
+         Govt          910475.965
+ Salaried_Pvt       847724.315664
