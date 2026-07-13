@@ -1,0 +1,7 @@
+Customer        Segment      Age    limits
+--------  -------------  -------  --------
+      A1  Self_Employed   0.9285  500000.0
+      A3   Salaried_Pvt  11.5593   10000.0
+     A10  Normal_Salary   4.1438  500000.0
+     A12  Self_Employed  11.1825  500000.0
+     A14   Salaried_Pvt   6.7724  500000.0

@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_spend_penalty",
+  "source_file": "NAKSHATRA MEENA EI01910 PROJECT-1.sas",
+  "source_blob_sha": "4d024891e10eec697285610fd348e788e1572c51",
+  "source_commit": "9aaff9f6791293950b4e4249f7e55871d8c9d822",
+  "notes": "Project-1 Q2: PROC SQL join of spend+cb with a CASE that imposes a 2% credit-limit penalty when a customer's total spend exceeds their limit; grouped by customer."
+}
